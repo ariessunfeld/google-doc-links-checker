@@ -13,6 +13,7 @@ Parts of the code in this project were developed using Claude Sonnet 4.5.
 
 ```bash
 $ poetry run python main.py
+
 ...  
 📊 SUMMARY  
 =====================  
