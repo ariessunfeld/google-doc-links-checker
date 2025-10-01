@@ -1,0 +1,15 @@
+# cv-checker
+
+This repository contains a script that helps check for broken links in CVs. Theroetically it could be used to check for broken links in ay sort of document; it was designed to make it easy to check whether there are any broken links in a CV hosted as a public view-only Google Docs file.
+
+# Installation
+
+1. Clone the repository
+2. `$ poetry install`
+
+# Usage
+
+1. `poetry run python main.py`
+
+
+
