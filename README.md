@@ -1,6 +1,8 @@
 # cv-checker
 
-This repository contains a script that helps check for broken links in CVs. Theroetically it could be used to check for broken links in ay sort of document; it was designed to make it easy to check whether there are any broken links in a CV hosted as a public view-only Google Docs file.
+This repository contains a script that helps check for broken links in CVs. Theroetically it could be used to check for broken links in ay sort of document; it was designed to make it easy to check whether there are any broken links in a CV hosted as a public view-only Google Docs file.  
+
+Parts of the code in this project were developed using Claude Sonnet 4.5.
 
 # Installation
 
