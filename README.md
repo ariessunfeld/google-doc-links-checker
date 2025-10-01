@@ -11,7 +11,16 @@ Parts of the code in this project were developed using Claude Sonnet 4.5.
 
 # Usage
 
-1. `poetry run python main.py`
+`$ poetry run python main.py`
+
+> `...`
+> `📊 SUMMARY`
+> `=====================`
+> `Total links checked: 48`
+> `✅ Working: 48`
+> `❌ Broken: 0`
+> `⚠️  Errors/Timeouts: 0`
+
 
 
 
